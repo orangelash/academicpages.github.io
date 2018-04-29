@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "João Amaral Santos"
+  avatar           : "images/profile.png"
+  bio              : "I like Coffee."
+  location         : "Covilhã, Portugal"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :

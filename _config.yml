@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "João Amaral Santos"
-  avatar           : "images/profile.png"
-  bio              : "I like Coffee."
+  avatar           : "images/profile.jpg"
+  bio              : "I like coffee. I dont like Bios."
   location         : "Covilhã, Portugal"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :

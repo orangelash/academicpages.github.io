@@ -11,49 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Current - **Master of Science in Computer Science and Engineering**
+  * *University of Beira Interior*, Covilhã
+  * Researcher at ReGain group.
+  * Overall average: 15/20 (First semester).
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jun 2017 - **Bachelor of Science in Computer Science and Engineering**
+  * *University of Beira Interior*, Covilhã
+  * Project: “TankUP” — Advisor: Prof. *Frutuoso Gomes*
+  * Member of the ReGain group.
+  * Overall average: 14/20.
 
-Publications
+Experience
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Grupo Visabeira - Viseu, Portugal
+  * Software Systems Engineering Intern
+  * Summer internship as a Software Systems Engineer, working on various soft-
+ware development projects such as PushAPP, application to message and man-
+age locations for work fleets, CRM integrations and also front and back-end
+web development.
+
+* ROFF - Covilhã, Portugal
+  * SAP Trainee
+  * Overall Study of the SAP framework and constitution and training in SAP
+fundamentals, such as ABAP form making, SAP Script, Smartforms and ALV
+Trees.rvisor: Professor Hub
   
-Talks
+Technical Strengths
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+|||
+|-|-|
+|Computer Languages|C/C++, Java, Python, SQL, JavaScript|
+|Markup Languages|HTML, CSS, L A TEX, Markdown|
+|Human Languages|Portuguese, English, Spanish|
+|Frameworks|Apache Hadoop, Apache Spark, Java Enterprise, OutSystems|
+|Operating Systems|Microsoft Windows 10, Various Debian or Arch based GNU/Linux systems|
+|Databases|MySQL, PostgreSQL, Microsoft SQL|
+|Tools|Git, Vim, Blender, Unity|
+
+For a more detailed view of my skillset, [download the PDF version!](../blob/master/cv.pdf)
